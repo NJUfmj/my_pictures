@@ -1,3 +1,4 @@
 # my_pictures
-Screenshot
-![image](https://github.com/NJUfmj/my_pictures/blob/main/%E5%9B%BE%E7%89%871.png)
+能跑就行
+（要不跑路吧）
+![image](https://github.com/NJUfmj/my_pictures/blob/main/RUN1.png)
